@@ -1,8 +1,8 @@
 ### CrDroid Android 14.0 for Motorola Phones ( Build Vanilla )
 
-| Device       |              Download Link   
-|--------------|-----------------------------
-| Moto G60/G40 ( Latest build )| [**crDroidAndroid-14.0-20240425-hanoip-v10.4.zip**](https://sourceforge.net/projects/moto-devices/files/Sm6150/crDroidAndroid-14.0-20240425-hanoip-v10.4.zip/download)
+| Device       |              Download Link   | Build Date 
+|--------------|------------------------------|-------------
+| Moto G60/G40 ( Latest build )| [**crDroidAndroid-14.0-20240425-hanoip-v10.4.zip**](https://sourceforge.net/projects/moto-devices/files/Sm6150/crDroidAndroid-14.0-20240425-hanoip-v10.4.zip/download) | 26/April/24|
 
 ### Google Apps for custom roms
 
