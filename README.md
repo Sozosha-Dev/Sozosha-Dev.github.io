@@ -10,6 +10,12 @@
 |--------------|------------------------------|-------------
 | Moto G60/G40 ( Latest build )| [**lineage-21.0-20240424-UNOFFICIAL-Kevin-hanoip.zip**](https://sourceforge.net/projects/moto-devices/files/Sm6150/lineage-21.0-20240424-UNOFFICIAL-Kevin-hanoip.zip/download) | 24/April/24|
 
+### DerpFest Android 14.0 for Motorola Phones ( Build Gapps )
+
+| Device       |              Download Link   | Build Date 
+|--------------|------------------------------|-------------
+| Moto G60/G40 ( Latest build )| [**DerpFest-14.0-XXXXXX-hanoip.zip**](https://sourceforge.net/projects/moto-devices/files/Sm6150/) | XX/XX/XX|
+
 ### Google Apps for custom roms
 
 | Owner       |              Download link                      |  Android version  |
