@@ -16,5 +16,4 @@
 ###### My build is done with my free time so I won't always be on the lookout. If you find any errors, take logs and send it to me. It would be a great help to improve my roms and your experience. 
 ###### Thank you 🙂
 
-
-##### the original idea is from RaghuVarma331
+###### the original idea is from RaghuVarma331
