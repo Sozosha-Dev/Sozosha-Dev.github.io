@@ -14,7 +14,7 @@
 
 | Device       |              Download Link   | Build Date 
 |--------------|------------------------------|-------------
-| Moto G60/G40 ( Latest build )| [**DerpFest-14.0-XXXXXX-hanoip.zip**](https://sourceforge.net/projects/moto-devices/files/Sm6150/) | XX/XX/XX|
+| Moto G60/G40 ( Latest build )| [**DerpFest-14-Community-Stable-hanoip-20240429.zip**](https://sourceforge.net/projects/moto-devices/files/Testing/DerpFest-14-Community-Stable-hanoip-20240429.zip/download) | 02/May/24|
 
 ### Google Apps for custom roms
 
